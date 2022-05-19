@@ -1,0 +1,29 @@
+{
+    "": [
+        "2022-05-19-corporate-compliance.md", 
+        "2022-05-18-how-to-get-rich-without-getting-lucky.md", 
+        "2020-07-11-blog_info.md", 
+        "2020-07-10-releasenode.md", 
+        "2016-11-20-markdowntool.md", 
+        "2016-10-14-jekyll_tutorials1.md", 
+        "2016-06-12-hexo_advanced.md"
+    ], 
+    "__positions": {
+        "2022-05-19-corporate-compliance.md": 1, 
+        "2020-07-10-releasenode.md": 4, 
+        "2016-06-12-hexo_advanced.md": 7, 
+        "2016-11-20-markdowntool.md": 5, 
+        "2022-05-18-how-to-get-rich-without-getting-lucky.md": 2, 
+        "2020-07-11-blog_info.md": 3, 
+        "2016-10-14-jekyll_tutorials1.md": 6
+    }, 
+    "__raw_positions": {
+        "2022-05-19-corporate-compliance.md": 1, 
+        "2020-07-10-releasenode.md": 4, 
+        "2016-06-12-hexo_advanced.md": 7, 
+        "2016-11-20-markdowntool.md": 5, 
+        "2022-05-18-how-to-get-rich-without-getting-lucky.md": 2, 
+        "2020-07-11-blog_info.md": 3, 
+        "2016-10-14-jekyll_tutorials1.md": 6
+    }
+}
