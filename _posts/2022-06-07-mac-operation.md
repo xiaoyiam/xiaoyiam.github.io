@@ -6,7 +6,7 @@ tags: Mac
 ---
     
 
-##  1. 桌面图标突然不显示了<sup>1</sup>  
+##  1. 桌面图标突然不显示了<sup>1</sup>
 
 如果Finder的“桌面”文件夹能看到原有的桌面文件，可能是桌面图标被隐藏了。
 
@@ -26,7 +26,7 @@ defaults write com.apple.finder CreateDesktop true;killall Finder
 
 ##  Ref  
 
-1. [MacBook Pro桌面文件不显示
+1.  [MacBook Pro桌面文件不显示
 ](https://discussionschinese.apple.com/thread/251144644?answerId=252257906322#252257906322)  
 
 
